@@ -1,0 +1,26 @@
+{
+  "name": "spotifysearch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "express": "^4.17.0",
+    "fs": "0.0.1-security",
+    "spotify-web-api-node": "^4.0.0"
+  },
+  "devDependencies": {},
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-SeaCow/CSGOSpreadSheet.git"
+  },
+  "author": "Matthew Van Vleet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mr-SeaCow/CSGOSpreadSheet/issues"
+  },
+  "homepage": "https://github.com/Mr-SeaCow/CSGOSpreadSheet#readme"
+}
